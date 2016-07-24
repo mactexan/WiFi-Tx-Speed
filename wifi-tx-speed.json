@@ -1,0 +1,6 @@
+{
+  "name": "wifi-tx-speed",
+  "description": "Collects and displays the current actual transmission speed of your WiFi connection",
+  "author": "Joe Kelley",
+  "email": "joe@kelleydata.com"
+}
